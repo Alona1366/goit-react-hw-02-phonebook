@@ -7,21 +7,21 @@ export const FormLabel = styled(Form)`
   align-items: flex-end;
   gap: 12px;
   margin-bottom: 16px;
-  padding: 8px;
-  border: 1px solid #2a2a2a;
+  padding: 24px;
+  background-color: #F9F9F9;
   border-radius: 4px;
 `;
 
 export const Button = styled.button`
-  background-color: green;
-  border: 1px solid #0926a6;
-  border-radius: 5px;
-  color: black;
-  padding: 5px 10px;
+  background-color: #278C41;
+  border: none;
+  border-radius: 4px;
+  color: white;
+  padding: 8px 16px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
-  font-size: 14px;
+  font-size: 16px;
   cursor: pointer;
 `;
 

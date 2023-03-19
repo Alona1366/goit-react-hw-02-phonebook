@@ -1,13 +1,13 @@
 import styled from '@emotion/styled'
 
 export const LabelTitle= styled.label`
-  color: black;
-  font-size: 25px;
+  color: #333333;
+  font-size: 18px;
 `;
 export const Input = styled.input`
-  border: 1px solid black;
+  border: 1px solid #C2C2C2;
   border-radius: 4px;
   padding: 1px;
-  margin-left: 15px;
-  margin-bottom: 15px;
+  margin-left: 16px;
+  margin-bottom: 16px;
 `;

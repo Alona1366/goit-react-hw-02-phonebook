@@ -1,18 +1,18 @@
 import styled from '@emotion/styled'
 
 export const Description = styled.p`
-  margin-left: 50px;
+  margin-left: 56px;
 `;
 export const Button = styled.button`
-  background-color: blue; 
-  border: 1px solid #0926a6;
-  border-radius: 10px;
-  color: black;
-  padding: 5px 10px;
+  background-color: #8C8C88; 
+  border: none;
+  border-radius: 8px;
+  color: #333333;
+  padding: 4px 12px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
-  font-size: 14px;
+  font-size: 16px;
   cursor: pointer;
   margin-left: auto;
   margin-right: 150px;`
